@@ -1,2 +1,2 @@
 # MirageIDE
-A simple Python editor.
+A simple Python editor with cool looking UI.
